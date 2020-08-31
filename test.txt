@@ -1,1 +1,2 @@
-srirama srirama srirama srirama sriram srirama srirama
+git config --global user.name "abc"
+     git config --global user.email "abc@example.com"
